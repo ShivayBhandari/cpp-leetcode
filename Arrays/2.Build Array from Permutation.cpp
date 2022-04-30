@@ -17,6 +17,6 @@ public:
 };
 /*
 Used the equation nums[i]+=n*(nums[nums[i]]%n)
-so there is no need for a second array to store elements (hence saving the space)
+so there is no need for second array to store elements (hence saving the space)
 Then used nums[i]/=n to store the answer in the same array
 */
